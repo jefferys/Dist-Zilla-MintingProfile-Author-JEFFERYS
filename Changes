@@ -1,0 +1,20 @@
+Revision history for Dist-Zilla-MintingProfile-Author-JEFFERYS.
+
+Versioning generally follows semantic versioning rules (2.0.0) as specified at http://semver.org
+
+{{$NEXT}}
+
+ [Major]
+
+ [API]
+
+ [Minor]
+
+ [Feature]
+
+ [Documentation]
+
+ [Bug Fix]
+
+ [Internal]
+  - Created initial Dist-Zilla-MintingProfile-Author-JEFFERYS distribution using 'dzil'.
